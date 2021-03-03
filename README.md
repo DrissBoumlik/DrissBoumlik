@@ -4,9 +4,9 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=0084B1&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/drissboumlik)
 [![Facebook URL](https://img.shields.io/static/v1?color=3C5B9B&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/boumlikdriss)
 
-**I 💻 code, 🌐 blog, 🎤 speak, ✍ write, 🔡 teach ... and other stuff usually not in the same order.**
+I 💻 code, 🌐 blog, 🎤 speak, ✍ write, 🔡 teach ... and other stuff usually not in the same order.
 
-You can find me at [TeaCode.ma](https://teacode.ma) wher I love sharing my knowledge and experience, help beginner developers.
+You can find me at [TeaCode.ma](https://teacode.ma) where I love sharing my knowledge and experience, help beginner developers.
 
 - 📫 **Contact me**: you can reach me through the above links 👆, in addition to follow me here.
 - ⚡ **Fun fact**: I love ⚽, 🥋, and ☕️.
