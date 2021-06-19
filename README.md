@@ -17,8 +17,7 @@ You can find me at [TeaCode.ma](https://teacode.ma) where I love sharing my know
 
 <a href="https://github.com/drissboumlik/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=drissboumlik&count_private=true&show_icons=true&hide_border=false" />
-</a>
-<a href="https://github.com/drissboumlik/">
+</a><a href="https://github.com/drissboumlik/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drissboumlik&layout=compact&hide_border=false" />
 </a>
 
