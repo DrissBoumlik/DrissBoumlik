@@ -17,25 +17,19 @@ You can find me at [TeaCode.ma](https://teacode.ma) where I love sharing my know
 
 **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
-<a href="http://www.github.com/drissboumlik"><img src="https://github-readme-stats.vercel.app/api?username=drissboumlik&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="drissboumlik's GitHub stats" /></a><a href="https://github.com/drissboumlik/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drissboumlik&layout=compact&hide_border=false" />
-</a>
+<div align = "_center">
+  <!-- TROPHIES -->
+  <p><img width="600" src="https://github-profile-trophy.vercel.app/?username=drissboumlik&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/></p>
 
-<a href="http://www.github.com/drissboumlik"><img src="https://github-readme-streak-stats.herokuapp.com/?user=drissboumlik&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+  <!-- STATS -->
+  <p><img src="https://github-readme-stats.vercel.app/api?username=drissboumlik&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="drissboumlik's GitHub stats" /></p>
 
-<a href="http://www.github.com/drissboumlik"><img src="https://activity-graph.herokuapp.com/graph?username=drissboumlik&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  <!-- MOST -->
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drissboumlik&layout=compact&hide_border=false" /></p>
 
-<!--
-**DrissBoumlik/DrissBoumlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- STREAK -->
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=drissboumlik&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- GRAPH -->
+  <p><img src="https://activity-graph.herokuapp.com/graph?username=drissboumlik&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></p>
+</div>
