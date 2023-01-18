@@ -1,35 +1,15 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 [<img src="assets/wp.jpg" style="width:100%" />](https://drissboumlik.com)
 
 ### Hi there, I'am Driss Boumlik! 👋
-[![Twitter URL](https://img.shields.io/static/v1?color=1DA1F3&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/drissboumlik)
-[![Instagram URL](https://img.shields.io/static/v1?color=C536A4&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/drissboumlik)
-[![LinkedIn URL](https://img.shields.io/static/v1?color=0084B1&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/drissboumlik)
-[![Facebook URL](https://img.shields.io/static/v1?color=3C5B9B&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/drissboumlik)
 
 I 💻 code, 🌐 blog, 🎤 speak, ✍ write, 🔡 teach ... and other stuff usually not in the same order.
 
-You can find me at [TeaCode.ma](https://teacode.ma) where I love sharing my knowledge and experience, help beginner developers.
+You can find me at [*teacode.ma*](https://teacode.ma) where I love sharing my knowledge and experience, help other developers.
 
-- 📫 **Contact me**: you can reach me through the above links 👆, in addition to follow me here.
-- ⚡ **Fun fact**: I love ⚽, 🥋, and ☕️.
-
-<hr/>
-
-**NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
-
-<div align = "_center">
-  <!-- TROPHIES -->
-  <p><img width="600" src="https://github-profile-trophy.vercel.app/?username=drissboumlik&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/></p>
-
-  <!-- STATS -->
-  <p><img src="https://github-readme-stats.vercel.app/api?username=drissboumlik&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="drissboumlik's GitHub stats" /></p>
-
-  <!-- MOST -->
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drissboumlik&layout=compact&hide_border=false" /></p>
-
-  <!-- STREAK -->
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=drissboumlik&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></p>
-
-  <!-- GRAPH -->
-  <p><img src="https://activity-graph.herokuapp.com/graph?username=drissboumlik&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></p>
-</div>
+📫 **Contact me**: you can reach me through these links [<i class="fa-brands fa-twitter"></i>](https://twitter.com/drissboumlik)
+[<i class="fa-brands fa-instagram"></i>](https://www.instagram.com/drissboumlik)
+[<i class="fa-brands fa-linkedin"></i>](https://www.linkedin.com/in/drissboumlik)
+[<i class="fa-brands fa-facebook"></i>](https://www.facebook.com/drissboumlik), in addition to follow me here.
+⚡ **Fun fact**: I love ⚽, 🥋, and ☕️.
