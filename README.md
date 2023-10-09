@@ -9,5 +9,3 @@ You can find me at [*teacode.ma*](http://community.drissboumlik.com/) or [*here*
 📫 **Contact me**: you can reach me [*here*](mailto:hi@drissboumlik.com).
 
 ⚡ **Fun fact**: I love ⚽, 🥋, and ☕️.
-
-![](https://komarev.com/ghpvc/?username=drissboumlik)
